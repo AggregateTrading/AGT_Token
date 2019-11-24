@@ -1,28 +1,31 @@
-### AGT即将开启一个100%的自由去中心的链上交易！100%公平！
-11月正式火爆上线启动瞬间，颠覆了Dapp同类同行所有区块链玩法!
-真正的去中心化区块链+智能合约时代已经来临！
-全球唯一一个去中心化，无人操控的智能合约项目 ！！！
+### AGT is about to open a 100% free-to-center chain trading! 100% fair!
+
+*Read this in other languages: [English](README.md), [简体中文](README.zh-CN.md).*
+
+In November, the official hot start of the line, subverting all the blockchain games of Dapp's peers!
+The true decentralized blockchain + smart contract era has arrived!
+The only decentralized, unmanned smart contract project in the world! ! !
 
 
-### 如何参与？
-①拥有imtoken 2.0、trustwallet、my token、比特派等任何去中心化钱包即可参与，无需额外注册。
-②Fcoin交易所购买AGT或钱包存贮有AGT
-③将AGT提到自己的以太坊钱包即可
-④咨询telegram官方客服报名
+### How to participate?
+1 You can participate in any decentralized wallet with imtoken 2.0, trustwallet, my token, bitt, etc., without additional registration.
+2Fcoin Exchange buys AGT or wallet storage with AGT
+3 mention AGT to your own Ethereum wallet
+4Contact telegram official customer service registration
 
-### 静态收益：
-①智能分红月化：16%～20%；
+### Static income:
+1 intelligent dividend monthlyization: 16% to 20%;
 
-### 动态奖励：
-①直推分享奖：静态收益20%,（只拿一层）
-②管理收益奖；团队达到100万AGT持仓，所有静态收益的5%。
+### Dynamic reward:
+1 direct push sharing award: static income 20%, (take only one layer)
+2 Management Income Award; the team reaches 1 million AGT positions, 5% of all static gains.
 
-### 创新亮点：
-①以太坊智能合约
-②公平，公正，公开透明，不可篡改
-③无服务器，无域名，无APP，无后台，无操盘手。
-所有程序架构在Ethereum智能合约上，只可通过imtoken 2.0、trustwallet、my token、比特派等正规以太坊钱包参与。
-④资金安全，所有资金全部在自己的以太坊钱包里，任何个人或组织也不能私自动用此资金，包括黑客攻击，只有触碰并达成合约条件时，才能按合约自动分发各项收益。并且所有的信息上链，完全公平，公正，公开透明，不可篡改
-⑤不必用手机/邮箱或身份证注册，只要有去中心化的以太系钱包地址即可参与游戏，完全不泄露任何私人信息，无安全无隐患
-⑥随时随刻提现秒到，链上智能合约处理，无需任何人任何组织批准。
-⑦永不关网，链上跑动，且无后台管理。
+### Innovation highlights:
+1 Ethereum Smart Contract
+2 Fair, just, open and transparent, not tamperable
+3 No server, no domain name, no APP, no background, no trader.
+All program architectures are on the Ethereum smart contract and can only be accessed through regular Ethereum wallets such as imtoken 2.0, trustwallet, my token, and bitt.
+4 funds are safe, all funds are in their own Ethereum wallet, and no individual or organization can use this funds privately, including hacking. Only when they touch and reach the contract conditions, can they automatically distribute the proceeds according to the contract. And all information is on the chain, completely fair, fair, open and transparent, and cannot be tampered with
+5 You don't have to register with your mobile phone/email or ID card. As long as you have a decentralized Ether wallet address, you can participate in the game without revealing any private information. There is no security.
+6 At any time, you can pick up the seconds and the smart contract processing on the chain, without any organization approval.
+7 never shuts the net, runs on the chain, and has no background management.
